@@ -1,4 +1,5 @@
 # Lista de tarefas em react 🚀
+![image](https://user-images.githubusercontent.com/38886580/196795657-2d901051-7c1c-48eb-a3cc-fdb64b146e24.png)
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
@@ -42,4 +43,7 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você não precisa usar `eject`. O conjunto de recursos com curadoria é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
 
-Desenvolvido com 💜 by Eduardo
+## License MIT 🖊️
+**Desenvolvido com amor 💜 by Eduardo**
+
+
