@@ -1,0 +1,10 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+.container{
+    color: rgb(48, 43, 43);
+    margin: auto;
+    max-width: 900px;
+}
